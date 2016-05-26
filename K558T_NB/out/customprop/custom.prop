@@ -4,5 +4,6 @@ ro.product.brand=Vernee
 ro.product.manufacturer=NewBund
 ro.bt.name=Apollo Lite
 ro.wifi.name=Apollo Lite
-
+ro.config.ringtone=Vernee_r005.ogg
+ro.nb_se_ask_support=1
 
