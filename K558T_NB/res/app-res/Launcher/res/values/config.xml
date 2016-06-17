@@ -1,0 +1,4 @@
+<resources>    
+    <!-- Scroll wallpaper -->
+    <bool name="config_wallpaper_single_screen">true</bool>
+</resources>

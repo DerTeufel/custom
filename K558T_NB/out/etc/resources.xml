@@ -1,5 +1,6 @@
 <?xml  version="1.0" encoding="UTF-8" ?>
 <resources>
+   <item packageName="com.android.launcher3" name="launcher3"/>
    <item packageName="com.android.browser" name="browser"/>
    <item packageName="com.android.quicksearchbox" name="quicksearchbox"/>
 </resources>
